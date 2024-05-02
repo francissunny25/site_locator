@@ -1,5 +1,3 @@
-plotly
-pandas
-json
-numpy
+geopy
+OSGridConverter
 -e .
