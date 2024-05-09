@@ -1,3 +1,6 @@
 geopy
 OSGridConverter
+pandas
+plotly
+shapely
 -e .

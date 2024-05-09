@@ -17,7 +17,7 @@ def get_requirements(file_path:str) -> List[str]:
     return requirements
 
 setup(
-    name = 'fun_with_maps',
+    name = 'site_locator',
     version='0.0.1',
     author='Francis Sunny',
     author_email='francis.sunny.25@gmail.com',
