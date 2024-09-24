@@ -3,4 +3,5 @@ OSGridConverter
 pandas
 plotly
 shapely
+flask
 -e .
